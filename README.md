@@ -1,4 +1,4 @@
-
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=s-anoob-1&metric=alert_status)](https://sonarcloud.io/dashboard?id=s-anoob-1)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
